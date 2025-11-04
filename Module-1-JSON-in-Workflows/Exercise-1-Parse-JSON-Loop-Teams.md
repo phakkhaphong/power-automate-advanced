@@ -135,9 +135,9 @@ employees[1]:
 1. เพิ่ม Action: คลิก **+ New step**
 2. ค้นหาและเลือก **Apply to each**
 3. ตั้งค่า:
-   - **Select an output from previous steps**: เลือก `employees` จาก Parse JSON output
+   - **Select an output from previous steps**: เลือก `Body employees` จาก Parse JSON output
 
-> 💡 **คำอธิบาย**: Apply to Each จะวนลูปผ่านทุก item ใน Array `employees` (ในที่นี้มี 4 คน)
+> 💡 **คำอธิบาย**: Apply to Each จะวนลูปผ่านทุก item ใน Array `Body employees` (ในที่นี้มี 4 คน)
 
 **Loop through items using Apply to Each:**
 
