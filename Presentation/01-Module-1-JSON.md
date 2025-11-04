@@ -366,14 +366,55 @@ Action N → Final JSON Output
 
 ---
 
-## Slide 12: Lab Exercise
-### Lab 1: JSON → Parse JSON → Loop & Select → HTML Table
+## Slide 12: Lab Exercises
 
-**สิ่งที่คุณจะได้ทำ**:
-1. สร้าง Flow ที่รับ JSON String
-2. แปลง JSON String เป็น Object ด้วย Parse JSON
-3. วนลูปผ่าน Array เพื่อดึงข้อมูล
-4. แปลงข้อมูลเป็น HTML Table สวยงาม
+### Exercise 1a: Parse JSON → Loop → Teams Messaging
+**พื้นฐาน**: วนลูปผ่าน Array และส่งข้อความทีละรายการ
+
+### Exercise 1b: Parse JSON → Loop → Join → Teams Messaging
+**Join Action**: รวมข้อความทั้งหมดเป็นข้อความเดียว
+
+### Exercise 1c: Parse JSON → Filter Array → Loop → Teams Messaging
+**Filter Array**: กรองข้อมูลตามเงื่อนไขก่อน Loop
+
+### Exercise 1d: Parse JSON → Select → HTML Table → Teams Messaging
+**Select + Create HTML table**: สร้าง HTML Table สวยงาม
+
+### Exercise 1e: Parse JSON → Compose → Report Generation
+**Compose**: ใช้สำหรับ Expression ที่ซับซ้อน (sum, length, formatNumber)
+
+**ตัวอย่าง JSON ที่ใช้ทุก Exercise**:
+```json
+{
+  "year": 2025,
+  "employees": [
+    {
+      "id": 1,
+      "name": "สมชาย ใจดี",
+      "department": "ไอที",
+      "salary": 50000
+    },
+    {
+      "id": 2,
+      "name": "สมหญิง รักงาน",
+      "department": "ทรัพยากรบุคคล",
+      "salary": 45000
+    },
+    {
+      "id": 3,
+      "name": "วิชัย ทำงานดี",
+      "department": "การเงิน",
+      "salary": 55000
+    },
+    {
+      "id": 4,
+      "name": "วิไล เก่งมาก",
+      "department": "ไอที",
+      "salary": 60000
+    }
+  ]
+}
+```
 
 ---
 
@@ -381,10 +422,13 @@ Action N → Final JSON Output
 หลังจากเรียนจบบทนี้ คุณจะสามารถ:
 
 - ✅ เข้าใจโครงสร้าง JSON Objects และ Arrays
-- ✅ Parse JSON String เป็น Object
-- ✅ วนลูปผ่าน Arrays ด้วย Apply to Each
-- ✅ กรองและเลือกข้อมูลจาก Arrays
-- ✅ สร้าง HTML/CSV Tables จาก JSON Data
+- ✅ Parse JSON String เป็น Object (Exercise 1a-1e)
+- ✅ วนลูปผ่าน Arrays ด้วย Apply to Each (Exercise 1a, 1b, 1c)
+- ✅ ใช้ Join Action เพื่อรวม Array เป็น String (Exercise 1b)
+- ✅ กรองข้อมูลด้วย Filter Array (Exercise 1c)
+- ✅ ใช้ Select เพื่อแปลง Array (Exercise 1d)
+- ✅ สร้าง HTML Table ด้วย Create HTML table Action (Exercise 1d)
+- ✅ ใช้ Compose สำหรับ Expression ที่ซับซ้อน (Exercise 1e)
 
 ---
 
