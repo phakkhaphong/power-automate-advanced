@@ -208,3 +208,4 @@ coalesce(triggerBody()?['name'], 'ไม่ระบุชื่อ')
 **คำถาม?**
 
 
+
