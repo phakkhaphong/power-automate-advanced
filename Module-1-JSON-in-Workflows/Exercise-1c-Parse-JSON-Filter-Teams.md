@@ -123,7 +123,7 @@ employees[1]:
    - **From**: เลือก `Body employees` จาก Parse JSON output
    - **เงื่อนไข**: คลิก **Add a condition**
    - **เงื่อนไขที่ 1**:
-     - **Choose a value**: เลือก `salary` จาก Dynamic Content (หรือใช้ Expression: `item()?['salary']`)
+     - **Choose a value**: เลือก `Body salary` จาก Dynamic Content (หรือใช้ Expression: `item()?['salary']`)
      - **เงื่อนไข**: `is greater than`
      - **Value**: `50000`
 
