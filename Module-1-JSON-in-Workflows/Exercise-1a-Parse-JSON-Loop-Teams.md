@@ -23,7 +23,7 @@
 
 1. เข้าสู่ **Power Automate** (https://powerautomate.microsoft.com)
 2. คลิก **Create** → เลือก **Instant cloud flow**
-3. ตั้งชื่อ Flow: `Exercise 1 - Parse JSON Loop Teams`
+3. ตั้งชื่อ Flow: `Exercise 1a - Parse JSON Loop Teams`
 4. เลือก Trigger: **Manually trigger a flow**
 5. คลิก **Create**
 6. ใน **Manually trigger a flow** คลิก **Add an input** → เลือก **JSON**
@@ -137,7 +137,7 @@ employees[1]:
 3. ตั้งค่า:
    - **Select an output from previous steps**: เลือก `Body employees` จาก Parse JSON output
 
-> 💡 **คำอธิบาย**: Apply to Each จะวนลูปผ่านทุก item ใน Array `Body employees` (ในที่นี้มี 4 คน)
+> 💡 **คำอธิบาย**: Apply to Each จะวนลูปผ่านทุก item ใน Array `employees` (ในที่นี้มี 4 คน)
 
 **Loop through items using Apply to Each:**
 
