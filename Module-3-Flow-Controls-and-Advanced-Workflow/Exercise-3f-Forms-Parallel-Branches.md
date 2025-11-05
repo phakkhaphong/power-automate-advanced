@@ -78,7 +78,7 @@
 #### Branch 2: Post message to Teams (Parallel)
 
 1. **คลิกที่ Trigger** (When a new response is submitted)
-2. **คลิกที่ + ที่อยู่ด้านล่าง Trigger** (ไม่ใช่ New step)
+2. **คลิกขวาที่ + ที่อยู่ด้านล่าง Trigger** (ไม่ใช่ New step)
 3. ค้นหาและเลือก **Post message in a chat or channel**
 4. ตั้งค่า:
    - **Post as**: `Flow bot`
