@@ -25,7 +25,7 @@
 
 ### ขั้นตอนที่ 1: สร้าง Flow ใหม่และตั้งค่า JSON Input
 
-1. เข้าสู่ **Power Automate** (https://powerautomate.microsoft.com)
+1. เข้าสู่ **Power Automate** (https://make.powerautomate.com/)
 2. คลิก **Create** → เลือก **Instant cloud flow**
 3. ตั้งชื่อ Flow: `Exercise 2c - Parse JSON Filter Teams`
 4. เลือก Trigger: **Manually trigger a flow**

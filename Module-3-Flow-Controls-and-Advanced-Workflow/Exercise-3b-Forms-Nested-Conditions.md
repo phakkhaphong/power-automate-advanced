@@ -67,7 +67,7 @@
 
 ### ขั้นตอนที่ 2: สร้าง Flow ใหม่พร้อม Forms Trigger
 
-1. เข้าสู่ **Power Automate** (https://powerautomate.microsoft.com)
+1. เข้าสู่ **Power Automate** (https://make.powerautomate.com/)
 2. คลิก **Create** → เลือก **Automated cloud flow**
 3. ตั้งชื่อ Flow: `Exercise 3b - Forms Nested Conditions`
 4. ค้นหาและเลือก Trigger: **When a new response is submitted**
