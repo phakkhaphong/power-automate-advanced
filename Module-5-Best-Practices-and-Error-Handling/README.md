@@ -148,17 +148,20 @@
 
 ---
 
-## 📝 Lab Exercise
+## 📝 Lab Exercises
 
-### Lab 3: Error Handling ด้วย Try–Catch–Finally + Retry Policy
+### Exercise 5a: Forms → Switch Condition → Error Handling
 
-**Exercise นี้อยู่ในไฟล์แยก**: [Exercise-3-Error-Handling.md](./Exercise-3-Error-Handling.md)
+**Exercise นี้อยู่ในไฟล์แยก**: [Exercise-5a-Forms-Switch-Error-Handling.md](./Exercise-5a-Forms-Switch-Error-Handling.md)
 
 **สิ่งที่คุณจะได้ทำ**:
-1. ✅ สร้าง Error Handling ด้วย Try–Catch–Finally Pattern
-2. ✅ ตั้งค่า Retry Policy สำหรับ Actions
-3. ✅ จัดการ Error Types ต่างๆ (Failed, Skipped, Timed Out)
-4. ✅ ส่ง Notification เมื่อเกิด Error
+1. ✅ สร้าง Flow ที่ใช้ Switch Condition
+2. ✅ ใช้ Error Handling ด้วย Try–Catch–Finally Pattern
+3. ✅ ตั้งค่า Retry Policy สำหรับ Actions
+4. ✅ จัดการ Error Types ต่างๆ (Failed, Skipped, Timed Out)
+5. ✅ ส่ง Notification เมื่อเกิด Error
+
+---
 
 > 📖 **คำแนะนำ**: เปิดไฟล์ Exercise เพื่อดูขั้นตอนการทำแบบละเอียด พร้อมคำอธิบายทุกขั้นตอน
 

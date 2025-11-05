@@ -93,19 +93,55 @@
 
 ---
 
-## 📝 Lab Exercise
+## 📝 Lab Exercises
 
-### Lab 2: Advanced Approval Flow (Purchase Order/Leave Request)
+### Exercise 4a: Basic Approval Flow with Teams Notification
 
-**Exercise นี้อยู่ในไฟล์แยก**: [Exercise-2-Advanced-Approval-Flow.md](./Exercise-2-Advanced-Approval-Flow.md)
+**Exercise นี้อยู่ในไฟล์แยก**: [Exercise-4a-Basic-Approval-Teams.md](./Exercise-4a-Basic-Approval-Teams.md)
 
 **สิ่งที่คุณจะได้ทำ**:
-1. ✅ สร้าง Approval Flow ที่รองรับหลายระดับ
-2. ✅ จัดการ Approval Response (อนุมัติ/ปฏิเสธ)
-3. ✅ ส่ง Notification ไปยังผู้เกี่ยวข้อง
-4. ✅ จัดการ Error Cases
+1. ✅ สร้าง Basic Approval Flow
+2. ✅ ใช้ Approval Action เพื่อส่งคำขออนุมัติ
+3. ✅ ส่ง Notification ไปยัง Teams
+4. ✅ จัดการ Approval Response
 
-> 📖 **คำแนะนำ**: เปิดไฟล์ Exercise เพื่อดูขั้นตอนการทำแบบละเอียด พร้อมคำอธิบายทุกขั้นตอน
+---
+
+### Exercise 4b: Vacation Request Approval Flow
+
+**Exercise นี้อยู่ในไฟล์แยก**: [Exercise-4b-Vacation-Request-Approval.md](./Exercise-4b-Vacation-Request-Approval.md)
+
+**สิ่งที่คุณจะได้ทำ**:
+1. ✅ สร้าง Vacation Request Approval Flow
+2. ✅ ตรวจสอบ Leave Balance
+3. ✅ ส่ง Approval Request ไปยัง Manager
+4. ✅ จัดการ Approval Response และอัพเดท Calendar
+
+---
+
+### Exercise 4c: Vacation Request Sequential Approval Flow
+
+**Exercise นี้อยู่ในไฟล์แยก**: [Exercise-4c-Vacation-Request-Sequential-Approval.md](./Exercise-4c-Vacation-Request-Sequential-Approval.md)
+
+**สิ่งที่คุณจะได้ทำ**:
+1. ✅ สร้าง Sequential Approval Flow (อนุมัติหลายระดับ)
+2. ✅ อนุมัติระดับที่ 1 ก่อน แล้วค่อยอนุมัติระดับที่ 2
+3. ✅ จัดการ Approval Response ในแต่ละระดับ
+
+---
+
+### Exercise 4d: Vacation Request Parallel Approval Flow
+
+**Exercise นี้อยู่ในไฟล์แยก**: [Exercise-4d-Vacation-Request-Parallel-Approval.md](./Exercise-4d-Vacation-Request-Parallel-Approval.md)
+
+**สิ่งที่คุณจะได้ทำ**:
+1. ✅ สร้าง Parallel Approval Flow (อนุมัติพร้อมกัน)
+2. ✅ ส่ง Approval Request ไปยังหลาย Approvers พร้อมกัน
+3. ✅ จัดการ Approval Response เมื่อมี Approver อนุมัติ
+
+---
+
+> 📖 **คำแนะนำ**: เปิดไฟล์ Exercise แต่ละตัวเพื่อดูขั้นตอนการทำแบบละเอียด พร้อมคำอธิบายทุกขั้นตอน
 
 ---
 

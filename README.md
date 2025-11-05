@@ -39,6 +39,7 @@
 - Dynamic Data และ Variables
 - Expressions สำคัญ (coalesce, guid, replace, utcNow, ticks, string, json, xml)
 - Handling Null และ Data Types (String, Number, Boolean, Array, Object, DateTime)
+- **Note**: Module นี้เป็นเนื้อหาพื้นฐานและทฤษฎี ไม่มี Lab Exercises
 
 ### [บทที่ 2: JSON in Workflows – The Core of Power Automate](./Module-2-JSON-in-Workflows)
 - JSON Basics: Objects, Arrays, Key–Value
@@ -46,19 +47,20 @@
 - Filtering & Selecting Arrays
 - Expressions ที่ใช้กับ JSON (first, last, join, create HTML/CSV Table)
 - ความเข้าใจว่า ทุก Action = JSON Input → JSON Output
-- **Lab 1:** JSON → Parse JSON → Loop & Select → HTML Table
+- **Lab Exercises**: Exercise 2a-2e (Parse JSON, Loop, Filter, Select, Compose)
 
 ### [บทที่ 3: Flow Controls & Advanced Workflow](./Module-3-Flow-Controls-and-Advanced-Workflow)
 - Conditional Logic: If–Else, Switch, Nested Conditions
 - Loops: Apply to Each, Do Until
 - Scope & Action Grouping
 - Parallel Branching, Delay, Timeout Patterns
+- **Lab Exercises**: Exercise 3a-3g (Condition, Switch, Do Until, Parallel Branches, Terminate)
 
 ### [บทที่ 4: Advanced Approvals](./Module-4-Advanced-Approvals)
 - Approval Components: Action, Card, Condition on Response
 - Use Cases: Purchase Order, Leave Request
 - Process Approvals ผ่าน Portal, Teams, Mobile
-- **Lab 2:** Advanced Approval Flow (Purchase Order/Leave Request)
+- **Lab Exercises**: Exercise 4a-4d (Basic Approval, Vacation Request, Sequential/Parallel Approval)
 
 ### [บทที่ 5: Best Practices & Error Handling](./Module-5-Best-Practices-and-Error-Handling)
 - Try–Catch–Finally Pattern
@@ -66,13 +68,13 @@
 - Error Handling: Failed, Skipped, Timed Out
 - Terminate Flow & Asynchronous Actions
 - Trigger Conditions & Wait Until Pattern
-- **Lab 3:** Error Handling ด้วย Try–Catch–Finally + Retry Policy
+- **Lab Exercise**: Exercise 5a (Forms Switch Error Handling)
 
 ### [บทที่ 6: Parent–Child Flows](./Module-6-Parent-Child-Flows)
 - Concept: Child Flow & Reuse
 - Communication: HTTP Request/Response
 - ใช้ Solutions เพื่อ Deployment และ Sharing
-- **Lab 4:** Parent–Child Flow สำหรับ Reuse
+- **Lab Exercises**: Exercise 6a (Child Flow), Exercise 6b (Parent Flow)
 
 ### [บทที่ 7: Governance, Security & Monitoring](./Module-7-Governance-Security-and-Monitoring)
 - การตั้งชื่อ Flow, Action, Variable อย่างเป็นมาตรฐาน
@@ -80,6 +82,7 @@
 - Security Role และสิทธิ์การเข้าถึง
 - Flow Checker & Analytics
 - Debug และ Optimization (เช่น ลด Nested Loop, ใช้ Filter Array)
+- **Note**: Module นี้เป็นเนื้อหาทฤษฎีและ Best Practices ไม่มี Lab Exercises
 
 ---
 
