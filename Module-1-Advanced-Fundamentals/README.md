@@ -1,4 +1,4 @@
-# บทที่ 2: Advanced Fundamentals
+# บทที่ 1: Advanced Fundamentals
 
 ## 🎯 ภาพรวม
 

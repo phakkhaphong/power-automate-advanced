@@ -1,7 +1,7 @@
-# บทที่ 1: JSON in Workflows – The Core of Power Automate
+# บทที่ 2: JSON in Workflows – The Core of Power Automate
 
 ## Slide 1: Title
-### บทที่ 1: JSON in Workflows
+### บทที่ 2: JSON in Workflows
 **The Core of Power Automate**
 
 ---
@@ -457,10 +457,9 @@ A: ใช้เมื่อต้องการทำอะไรบางอ�
 ## Slide 16: Next Steps
 **พร้อมสำหรับบทต่อไป!**
 
-**บทที่ 2**: Advanced Fundamentals
-- Triggers และ Actions
-- Variables และ Expressions
-- Data Types
+**บทที่ 3**: Flow Controls & Advanced Workflow
+- Conditions และ Loops
+- Scopes และ Parallel Processing
 
 **คำถาม?**
 

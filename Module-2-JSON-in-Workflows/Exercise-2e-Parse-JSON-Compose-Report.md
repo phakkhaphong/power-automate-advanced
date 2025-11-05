@@ -30,7 +30,7 @@
 
 1. เข้าสู่ **Power Automate** (https://powerautomate.microsoft.com)
 2. คลิก **Create** → เลือก **Instant cloud flow**
-3. ตั้งชื่อ Flow: `Exercise 1e - Parse JSON Compose Report`
+3. ตั้งชื่อ Flow: `Exercise 2e - Parse JSON Compose Report`
 4. เลือก Trigger: **Manually trigger a flow**
 5. คลิก **Create**
 6. ใน **Manually trigger a flow** คลิก **Add an input** → เลือก **JSON**

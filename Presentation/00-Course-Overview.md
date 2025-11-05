@@ -30,17 +30,17 @@
 ---
 
 ## Slide 5: Outline การอบรม (1/2)
-### บทที่ 1: JSON in Workflows
-- JSON Basics: Objects, Arrays, Key–Value
-- Parse JSON → Extract & Loop Through Arrays
-- Filtering & Selecting Arrays
-- Lab 1: JSON → Parse JSON → Loop & Select → HTML Table
-
-### บทที่ 2: Advanced Fundamentals
+### บทที่ 1: Advanced Fundamentals
 - Trigger & Action Revisited
 - Dynamic Data และ Variables
 - Expressions สำคัญ
 - Handling Null และ Data Types
+
+### บทที่ 2: JSON in Workflows
+- JSON Basics: Objects, Arrays, Key–Value
+- Parse JSON → Extract & Loop Through Arrays
+- Filtering & Selecting Arrays
+- Lab 1: JSON → Parse JSON → Loop & Select → HTML Table
 
 ### บทที่ 3: Flow Controls & Advanced Workflow
 - Conditional Logic: If–Else, Switch
@@ -88,7 +88,7 @@
 ---
 
 ## Slide 8: Agenda (Timeline)
-- **09:00-10:30**: บทที่ 1-2 (JSON & Fundamentals)
+- **09:00-10:30**: บทที่ 1-2 (Fundamentals & JSON)
 - **10:30-10:45**: Coffee Break
 - **10:45-12:00**: บทที่ 3 (Flow Controls)
 - **12:00-13:00**: Lunch Break
@@ -111,6 +111,7 @@
 พร้อมสำหรับการเริ่มต้นการเรียนรู้ Power Automate Advanced!
 
 **คำถาม?**
+
 
 
 

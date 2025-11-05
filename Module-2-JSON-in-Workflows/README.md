@@ -1,4 +1,4 @@
-# บทที่ 1: JSON in Workflows – The Core of Power Automate
+# บทที่ 2: JSON in Workflows – The Core of Power Automate
 
 ## 🎯 ภาพรวม
 

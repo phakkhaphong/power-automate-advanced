@@ -1,7 +1,7 @@
-# บทที่ 2: Advanced Fundamentals
+# บทที่ 1: Advanced Fundamentals
 
 ## Slide 1: Title
-### บทที่ 2: Advanced Fundamentals
+### บทที่ 1: Advanced Fundamentals
 **ความรู้พื้นฐานที่สำคัญสำหรับ Flow ขั้นสูง**
 
 ---
@@ -201,11 +201,12 @@ coalesce(triggerBody()?['name'], 'ไม่ระบุชื่อ')
 ## Slide 17: Next Steps
 **พร้อมสำหรับบทต่อไป!**
 
-**บทที่ 3**: Flow Controls & Advanced Workflow
-- Conditions และ Loops
-- Scopes และ Parallel Processing
+**บทที่ 2**: JSON in Workflows
+- JSON Objects และ Arrays
+- Parse JSON และ Loops
 
 **คำถาม?**
+
 
 
 

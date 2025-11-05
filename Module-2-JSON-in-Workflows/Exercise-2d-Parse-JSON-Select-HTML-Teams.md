@@ -27,7 +27,7 @@
 
 1. เข้าสู่ **Power Automate** (https://powerautomate.microsoft.com)
 2. คลิก **Create** → เลือก **Instant cloud flow**
-3. ตั้งชื่อ Flow: `Exercise 1d - Parse JSON Select HTML Teams`
+3. ตั้งชื่อ Flow: `Exercise 2d - Parse JSON Select HTML Teams`
 4. เลือก Trigger: **Manually trigger a flow**
 5. คลิก **Create**
 6. ใน **Manually trigger a flow** คลิก **Add an input** → เลือก **JSON**

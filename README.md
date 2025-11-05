@@ -34,19 +34,19 @@
 
 ## Outline การอบรม
 
-### [บทที่ 1: JSON in Workflows – The Core of Power Automate](./Module-1-JSON-in-Workflows)
+### [บทที่ 1: Advanced Fundamentals](./Module-1-Advanced-Fundamentals)
+- Trigger & Action Revisited
+- Dynamic Data และ Variables
+- Expressions สำคัญ (coalesce, guid, replace, utcNow, ticks, string, json, xml)
+- Handling Null และ Data Types (String, Number, Boolean, Array, Object, DateTime)
+
+### [บทที่ 2: JSON in Workflows – The Core of Power Automate](./Module-2-JSON-in-Workflows)
 - JSON Basics: Objects, Arrays, Key–Value
 - Parse JSON → Extract & Loop Through Arrays
 - Filtering & Selecting Arrays
 - Expressions ที่ใช้กับ JSON (first, last, join, create HTML/CSV Table)
 - ความเข้าใจว่า ทุก Action = JSON Input → JSON Output
 - **Lab 1:** JSON → Parse JSON → Loop & Select → HTML Table
-
-### [บทที่ 2: Advanced Fundamentals](./Module-2-Advanced-Fundamentals)
-- Trigger & Action Revisited
-- Dynamic Data และ Variables
-- Expressions สำคัญ (coalesce, guid, replace, utcNow, ticks, string, json, xml)
-- Handling Null และ Data Types (String, Number, Boolean, Array, Object, DateTime)
 
 ### [บทที่ 3: Flow Controls & Advanced Workflow](./Module-3-Flow-Controls-and-Advanced-Workflow)
 - Conditional Logic: If–Else, Switch, Nested Conditions
@@ -86,6 +86,7 @@
 ## โครงสร้างเอกสาร
 
 เอกสารการสอนถูกแบ่งออกเป็น 7 โมดูล แต่ละโมดูลมีโฟลเดอร์แยก พร้อม README.md ที่ประกอบด้วยเนื้อหาและรายละเอียดการเรียนรู้สำหรับบทนั้นๆ
+
 
 
 
